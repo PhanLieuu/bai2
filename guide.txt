@@ -1,0 +1,6 @@
+1. npm init -y
+2. chay chuong trinh
+   npm start=node server
+3. npm install --save-dev nodemon
+4. chạy chương trình
+    nodemon server
